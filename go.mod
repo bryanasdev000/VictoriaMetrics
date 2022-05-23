@@ -18,7 +18,7 @@ require (
 	github.com/influxdata/influxdb v1.9.6
 	github.com/klauspost/compress v1.14.4
 	github.com/prometheus/prometheus v1.8.2-0.20201119142752-3ad25a6dc3d9
-	github.com/urfave/cli/v2 v2.3.0
+	github.com/urfave/cli/v2 v2.8.0
 	github.com/valyala/fastjson v1.6.3
 	github.com/valyala/fastrand v1.1.0
 	github.com/valyala/fasttemplate v1.2.1
@@ -36,6 +36,7 @@ require (
 	cloud.google.com/go/compute v1.5.0 // indirect
 	cloud.google.com/go/iam v0.3.0 // indirect
 	github.com/VividCortex/ewma v1.2.0 // indirect
+	github.com/antzucaro/matchr v0.0.0-20210222213004-b04723ef80f0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/fatih/color v1.13.0 // indirect
