@@ -216,8 +216,8 @@ github.com/rivo/uniseg
 # github.com/russross/blackfriday/v2 v2.1.0
 ## explicit
 github.com/russross/blackfriday/v2
-# github.com/urfave/cli/v2 v2.3.0
-## explicit; go 1.11
+# github.com/urfave/cli/v2 v2.8.1
+## explicit; go 1.18
 github.com/urfave/cli/v2
 # github.com/valyala/bytebufferpool v1.0.0
 ## explicit
@@ -241,6 +241,9 @@ github.com/valyala/histogram
 # github.com/valyala/quicktemplate v1.7.0
 ## explicit; go 1.11
 github.com/valyala/quicktemplate
+# github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673
+## explicit
+github.com/xrash/smetrics
 # go.opencensus.io v0.23.0
 ## explicit; go 1.13
 go.opencensus.io
